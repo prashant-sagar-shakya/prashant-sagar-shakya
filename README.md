@@ -31,19 +31,75 @@
 -   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ifpgrA7s-RiNYlByYo_qOkTpJBmA-7aN/view?usp=sharing)
 
 -   ⚡ Fun Fact **Talk is cheap. Show me the code**
-<br><br><h2 align="center">⚡ Connect With Me ⚡</h2>
-<h5  align="center"><a  href="https://linkedin.com/in/prashant-sagar-shakya"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>&emsp;<a  href="https://www.hackerrank.com/prashant_sagar_1"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>&emsp;<a  href="https://www.codechef.com/users/prashant-sagar-shakya"  title="CodeChef Profile"><img  width="22"  src="./images/codechef.png"> CodeChef </a>&emsp;<a  href="https://www.leetcode.com/prashant-sagar-shakya"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>&emsp;<a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="LeetCode Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a></h5><hr><h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><p align="center"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img title = "C" src="./images/c.png" alt="c"  height="25"/> </a>&ensp;<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title = "C++" src="./images/cpp.png" alt="cplusplus"  height="25"/> </a>&ensp;<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img title = "JAVA" src="./images/java.png" alt="java"  height="25"/> </a>&ensp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img title = "HTML5" src="./images/html5.png" alt="html5"  height="25"/> </a>&ensp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/></a>&ensp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/> </a>&ensp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="25"/> </a>&ensp;<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img title = "React" src="./images/react.png" alt="react"  height="25"/> </a>&ensp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/> </a>&ensp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img title = "Express.js" src="./images/express.png" alt="express"  height="25"/> </a>&ensp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/> </a>&ensp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/> </a>&ensp;<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/> </a>&ensp;<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/> </a>&ensp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img title = "Git" src="./images/git.png" alt="git"  height="25"/> </a>&ensp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/> </a>&ensp;<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img title = "Python" src="./images/python.png" alt="python"  height="25"/> </a>&ensp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/> </a>&ensp;<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/> </a>&ensp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> </a>&ensp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/> </a>&ensp;<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/> </a>&ensp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/> </a>&ensp;<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/> </a>&ensp;<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/> </a>&ensp;<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img title = "Heroku" src="./images/heroku.png" alt="heroku"  height="25"/> </a></p><hr><h2 align="center">⚡ Stats ⚡</h2><br><p align=center>
+<br>
+<br>
+<h2 align="center">⚡ Connect With Me ⚡</h2>
+<h5  align="center"><a  href="https://linkedin.com/in/prashant-sagar-shakya"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>&emsp;<a  href="https://www.hackerrank.com/prashant_sagar_1"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>&emsp;<a  href="https://www.codechef.com/users/prashant-sagar-shakya"  title="CodeChef Profile"><img  width="22"  src="./images/codechef.png"> CodeChef </a>&emsp;<a  href="https://www.leetcode.com/prashant-sagar-shakya"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>&emsp;<a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="LeetCode Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a></h5><hr><h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<p align="center">
+<img title = "C" src="./images/c.png" alt="c"  height="25"/>
+&ensp;
+<img title = "C++" src="./images/cpp.png" alt="cplusplus"  height="25"/>
+&ensp;<img title = "JAVA" src="./images/java.png" alt="java"  height="25"/>
+&ensp;
+<img title = "HTML5" src="./images/html5.png" alt="html5"  height="25"/>
+&ensp;
+<img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/>
+&ensp;
+<img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/>
+&ensp;
+<img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="25"/>
+&ensp;
+<img title = "React" src="./images/react.png" alt="react"  height="25"/>
+&ensp;
+<img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/>
+&ensp;
+<img title = "Express.js" src="./images/express.png" alt="express"  height="25"/>
+&ensp;
+<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
+&ensp;
+<img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
+&ensp;
+<img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
+&ensp;
+<img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/>
+&ensp;
+<img title = "Git" src="./images/git.png" alt="git"  height="25"/>
+&ensp;
+<img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
+&ensp;
+<img title = "Python" src="./images/python.png" alt="python"  height="25"/>
+&ensp;
+<img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/>
+&ensp;
+<img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
+&ensp;
+<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
+&ensp;
+<img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
+&ensp;
+<img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/>
+&ensp;
+<img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
+&ensp;
+<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
+&ensp;
+<img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/>
+&ensp;
+<img title = "Heroku" src="./images/heroku.png" alt="heroku"  height="25"/></p>
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
 <div align=center>
 <img align="left" width=390 src="https://streak-stats.demolab.com/?user=prashant-sagar-shakya&theme=react&border=61dafb&hide_border=true" alt="prashant-sagar-shakya" />
 <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=prashant-sagar-shakya&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-</div><br><br><br><br><br><br><br><br><br><div align=center>
+</div>
+<br><br><br><br><br><br><br><br><br>
+<div align=center>
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-sagar-shakya&&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
 </div>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-sagar-shakya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/></p>
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-sagar-shakya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 <br clear="both">
-
 <img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
-
