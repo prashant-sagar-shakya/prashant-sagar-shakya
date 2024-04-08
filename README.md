@@ -34,7 +34,10 @@
 <br>
 <br>
 <h2 align="center">⚡ Connect With Me ⚡</h2>
-<h5  align="center"><a  href="https://linkedin.com/in/prashant-sagar-shakya"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>&emsp;<a  href="https://www.hackerrank.com/prashant_sagar_1"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>&emsp;<a  href="https://www.codechef.com/users/prashant-sagar-shakya"  title="CodeChef Profile"><img  width="22"  src="./images/codechef.png"> CodeChef </a>&emsp;<a  href="https://www.leetcode.com/prashant-sagar-shakya"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>&emsp;<a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="LeetCode Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a></h5><hr><h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h5  align="center"><a  href="https://linkedin.com/in/prashant-sagar-shakya"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>&emsp;<a  href="https://www.hackerrank.com/profile/prashant_162003"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>&emsp;<a  href="https://www.codechef.com/users/prashant162003"  title="CodeChef Profile"><img  width="22"  src="./images/codechef.png"> CodeChef </a>&emsp;<a  href="https://leetcode.com/Prashant162003/"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>&emsp;<a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="GFG Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a>
+</h5>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
 <img title = "C" src="./images/c.png" alt="c"  height="25"/>
 &ensp;
