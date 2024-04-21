@@ -65,10 +65,10 @@
 &ensp;
 <img title = "React" src="./images/react.png" alt="react"  height="25"/>
 &ensp;
-<img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/>
-&ensp;
-<img title = "Express.js" src="./images/express.png" alt="express"  height="25"/>
-&ensp;
+<!-- <img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Express.js" src="./images/express.png" alt="express"  height="25"/> -->
+<!-- &ensp; -->
 <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
 &ensp;
 <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
@@ -83,24 +83,24 @@
 &ensp;
 <img title = "Python" src="./images/python.png" alt="python"  height="25"/>
 &ensp;
-<img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/>
-&ensp;
+<!-- <img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/> -->
+<!-- &ensp; -->
 <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
 &ensp;
-<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
-&ensp;
+<!-- <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> -->
+<!-- &ensp; -->
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
-<img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/>
-&ensp;
-<img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
-&ensp;
-<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
-&ensp;
-<img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/>
-&ensp;
-<img title = "Heroku" src="./images/heroku.png" alt="heroku"  height="25"/></p>
-<hr>
+<!-- <img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Heroku" src="./images/heroku.png" alt="heroku"  height="25"/></p> -->
+<!-- <hr> -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
