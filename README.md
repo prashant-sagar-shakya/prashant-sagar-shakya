@@ -87,8 +87,8 @@
 <!-- &ensp; -->
 <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
 &ensp;
-<!-- <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> -->
-<!-- &ensp; -->
+<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
+&ensp;
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
 <!-- <img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/> -->
