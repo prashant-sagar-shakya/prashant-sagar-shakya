@@ -28,7 +28,7 @@
 
 -   📫 How to reach me [therealprashantshakya@gmail.com](mailto:therealprashantshakya@gmail.com)
 
--   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ifpgrA7s-RiNYlByYo_qOkTpJBmA-7aN/view?usp=sharing)
+-   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P0oVASZmEpxRyW99dLXVWAPZdPdixE_U/view?usp=sharing)
 
 -   ⚡ Fun Fact **Talk is cheap. Show me the code**
 <br>
