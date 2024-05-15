@@ -56,8 +56,8 @@
 &ensp;
 <img title = "HTML5" src="./images/html5.png" alt="html5"  height="25"/>
 &ensp;
-<img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/>
-&ensp;
+<!-- <img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/> -->
+<!-- &ensp; -->
 <img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/>
 &ensp;
 <img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="25"/>
@@ -68,14 +68,14 @@
 <!-- &ensp; -->
 <!-- <img title = "Express.js" src="./images/express.png" alt="express"  height="25"/> -->
 <!-- &ensp; -->
-<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
-&ensp;
-<img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
-&ensp;
-<img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
-&ensp;
-<img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/>
-&ensp;
+<!-- <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/> -->
+<!-- &ensp; -->
 <img title = "Git" src="./images/git.png" alt="git"  height="25"/>
 &ensp;
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
@@ -84,12 +84,12 @@
 &ensp;
 <!-- <img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/> -->
 <!-- &ensp; -->
-<img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
-&ensp;
-<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
-&ensp;
-<img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
-&ensp;
+<!-- <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> -->
+<!-- &ensp; -->
+<!-- <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/> -->
+<!-- &ensp; -->
 <!-- <img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/> -->
 <!-- &ensp; -->
 <!-- <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/> -->
