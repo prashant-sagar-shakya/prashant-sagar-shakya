@@ -13,10 +13,6 @@
 
 <img align = "right" alt="Coding" width = "400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant-sagar-shakya&label=Profile%20views&color=0e75b6&style=flat" alt="prashant-sagar-shakya" /> </p>-->
-
-<!--<p align="left"> <a href="https://twitter.com/prashant_162003" target="blank"><img src="https://img.shields.io/twitter/follow/prashant_162003?logo=twitter&style=for-the-badge" alt="prashant_162003" /></a> </p>-->
-
 -   🌱 I’m currently learning **React.JS & Next.JS**
 
 -   👯 I’m looking to collaborate on **Open Source**
@@ -25,7 +21,7 @@
 
 -   💬 Ask me about **React, Next.JS, C, C++, Python, JAVA, DSA**
 
--   📫 How to reach me [therealprashantshakya@gmail.com](mailto:therealprashantshakya@gmail.com)
+-   📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
 
 -   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P0oVASZmEpxRyW99dLXVWAPZdPdixE_U/view?usp=sharing)
 
@@ -34,7 +30,7 @@
 <br>
 <h2 align="center">⚡ Connect With Me ⚡</h2>
 <h5  align="center">
-<a  href="https://linkedin.com/in/prashant-sagar-shakya"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>
+<a  href="https://linkedin.com/in/prashant162003"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>
 &emsp;
 <a  href="https://www.hackerrank.com/profile/prashant_162003"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>
 &emsp;
@@ -56,26 +52,26 @@
 &ensp;
 <img title = "HTML5" src="./images/html5.png" alt="html5"  height="25"/>
 &ensp;
-<!-- <img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/> -->
-<!-- &ensp; -->
+<img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/>
+&ensp;
 <img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/>
 &ensp;
 <img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="25"/>
 &ensp;
 <img title = "React" src="./images/react.png" alt="react"  height="25"/>
 &ensp;
-<!-- <img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/> -->
-<!-- &ensp; -->
+<img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/>
+&ensp;
 <!-- <img title = "Express.js" src="./images/express.png" alt="express"  height="25"/> -->
 <!-- &ensp; -->
-<!-- <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/> -->
-<!-- &ensp; -->
+<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
+&ensp;
+<img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
+&ensp;
+<img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
+&ensp;
+<img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/>
+&ensp;
 <img title = "Git" src="./images/git.png" alt="git"  height="25"/>
 &ensp;
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
@@ -84,12 +80,12 @@
 &ensp;
 <!-- <img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/> -->
 <!-- &ensp; -->
-<!-- <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/> -->
-<!-- &ensp; -->
+<img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
+&ensp;
+<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
+&ensp;
+<img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
+&ensp;
 <!-- <img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/> -->
 <!-- &ensp; -->
 <!-- <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/> -->
