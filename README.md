@@ -1,14 +1,11 @@
 ![logo](https://github.com/prashant-sagar-shakya/prashant-sagar-shakya/blob/master/Banner.png)
 
 <h1  align="center">
-
 <a  href="https://git.io/typing-svg">
-
 <img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prashant+Sagar+Shakya;Nice+to+meet+you!&center=true&size=25">
-
 </a>
-
 </h1>
+
 <h3 align="center">A passionate learner and future Software Engineer from India</h3>
 
 <img align = "right" alt="Coding" width = "400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -62,8 +59,6 @@
 &ensp;
 <img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/>
 &ensp;
-<!-- <img title = "Express.js" src="./images/express.png" alt="express"  height="25"/> -->
-<!-- &ensp; -->
 <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
 &ensp;
 <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
@@ -78,24 +73,18 @@
 &ensp;
 <img title = "Python" src="./images/python.png" alt="python"  height="25"/>
 &ensp;
-<!-- <img title = "Pandas" src="./images/pandas.png" alt="pandas"  height="25"/> -->
-<!-- &ensp; -->
 <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
 &ensp;
 <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
 &ensp;
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
-<!-- <img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/> -->
-<!-- &ensp; -->
-<!-- <img title = "Heroku" src="./images/heroku.png" alt="heroku"  height="25"/></p> -->
-<!-- <hr> -->
+<img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
+&ensp;
+<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
+&ensp;
+<img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/>
+&ensp;
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
