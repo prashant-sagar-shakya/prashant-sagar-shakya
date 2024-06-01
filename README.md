@@ -79,11 +79,21 @@
 &ensp;
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
+<img title = "Maven" src="./images/maven.png" alt="maven"  height="25"/>
+&ensp;
+<img title = "Jfrog Artifactory" src="./images/jfrog.png" alt="jfrog artifactory"  height="25"/>
+&ensp;
+<img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/>
+&ensp;
+<img title = "SonarQube" src="./images/sonarQube.png" alt="sonarqube"  height="25"/>
+&ensp;
+<img title = "Ansible" src="./images/ansible.png" alt="ansible"  height="25"/>
+&ensp;
 <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
 &ensp;
 <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
 &ensp;
-<img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/>
+<img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="25"/>
 &ensp;
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
