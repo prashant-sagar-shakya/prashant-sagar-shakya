@@ -31,13 +31,13 @@
 &emsp;
 <a  href="https://www.hackerrank.com/profile/prashant_162003"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>
 &emsp;
+<a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="GFG Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a>
+&emsp;
 <a  href="https://www.codechef.com/users/prashant162003"  title="CodeChef Profile"><img  width="22"  src="./images/codechef.png"> CodeChef </a>
 &emsp;
 <a  href="https://codeforces.com/profile/prashant.sagar.shakya"  title="CodeForces Profile"><img  width="22"  src="./images/codeforces.png"> CodeForces </a>
 &emsp;
 <a  href="https://leetcode.com/Prashant162003/"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>
-&emsp;
-<a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="GFG Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a>
 </h5>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
