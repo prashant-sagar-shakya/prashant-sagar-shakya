@@ -51,6 +51,8 @@
 &ensp;
 <img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/>
 &ensp;
+<img title = "Bootstrap5" src="./images/bootstrap.png" alt="css3"  height="25"/>
+&ensp;
 <img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/>
 &ensp;
 <img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="25"/>
