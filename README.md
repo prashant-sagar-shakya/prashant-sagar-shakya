@@ -79,7 +79,7 @@
 &ensp;
 <img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
 &ensp;
-<img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
+<!-- <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
 <img title = "Maven" src="./images/maven.png" alt="maven"  height="25"/>
 &ensp;
@@ -96,7 +96,7 @@
 <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
 &ensp;
 <img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="25"/>
-&ensp;
+&ensp; -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
