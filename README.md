@@ -20,14 +20,14 @@
 
 -   📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
 
--   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1P0oVASZmEpxRyW99dLXVWAPZdPdixE_U/view?usp=sharing)
+-   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1obHuPc8b-Lo1eNXA-qz7ZOj99mYIM7qJ/view?usp=sharing)
 
 -   ⚡ Fun Fact **Talk is cheap. Show me the code**
 <br>
 <br>
 <h2 align="center">⚡ Connect With Me ⚡</h2>
 <h5  align="center">
-<a  href="https://linkedin.com/in/prashant162003"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>
+<a  href="https://www.linkedin.com/in/prashant-sagar-shakya01/"  title="LinkedIn Profile"><img  width="22"  src="./images/linked.png"> LinkedIn</a>
 &emsp;
 <a  href="https://www.hackerrank.com/profile/prashant_162003"  title="HackerRank Profile"><img  width="22"  src="./images/hackerrank.png"> HackerRank</a>
 &emsp;
