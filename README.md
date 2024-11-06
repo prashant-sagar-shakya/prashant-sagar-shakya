@@ -20,7 +20,7 @@
 
 -   📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
 
--   📄 Know about my experiences [My Resume](https://github.com/prashant-sagar-shakya/prashant-sagar-shakya/blob/master/Data/Resume_2_0.pdf)
+-   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/10Jek0kd11J1zpkGh7LNP2SQgBC-2FUFO/view?usp=sharing)
 
 -   ⚡ Fun Fact **Talk is cheap. Show me the code**
 <br>
