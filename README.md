@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate learner and future Software Engineer from India</h3>
 
-<img align = "right" alt="Coding" width = "400" src="images/user.gif">
+<img align = "right" alt="Coding" width = "460" src="images/donut.gif">
 
 -   🌱 I’m currently learning **React.JS & Next.JS**
 
