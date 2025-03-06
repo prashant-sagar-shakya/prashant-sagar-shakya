@@ -1,4 +1,4 @@
-![logo](https://github.com/prashant-sagar-shakya/prashant-sagar-shakya/blob/master/Banner.png)
+![logo](/Banner.png)
 
 <h1  align="center">
 <a  href="https://git.io/typing-svg">
