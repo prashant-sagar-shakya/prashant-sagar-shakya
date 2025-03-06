@@ -65,7 +65,7 @@
 &ensp;
 <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="35"/>
 &ensp;
-<img title = "Postgres SQL" src="./images/postgresql.png" alt="postgres"  height="35"/>
+<img title = "Postgres SQL" src="./images/Postgresql.png" alt="postgres"  height="35"/>
 &ensp;
 <img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="35"/>
 &ensp;
