@@ -2,7 +2,7 @@
 
 <h1  align="center">
 <a  href="https://git.io/typing-svg">
-<img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prashant+Sagar+Shakya;Nice+to+meet+you!&center=true&size=25">
+<img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prashant+Sagar+Shakya;Nice+to+meet+you!&center=true&size=35">
 </a>
 </h1>
 
@@ -10,17 +10,17 @@
 
 <img align = "right" alt="Coding" width = "400" src="images/donut.gif">
 
--   🌱 I’m currently learning **Blockchain & Web3**
+- 🌱 I’m currently learning **Blockchain & Web3**
 
--   👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **Open Source**
 
--   💬 Ask me about **C, C++, Python, Rust, Solidity, Web2 & DSA**
+- 💬 Ask me about **C, C++, Python, Rust, Solidity, Web2 & DSA**
 
--   📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
+- 📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
 
--   📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1K0nFhcVvuwaCzjl4Y84jq1_fUo9pEZVU/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1K0nFhcVvuwaCzjl4Y84jq1_fUo9pEZVU/view?usp=sharing)
 
--   ⚡ Fun Fact **Talk is cheap. Show me the code**
+- ⚡ Fun Fact **Talk is cheap. Show me the code**
 <br>
 <br>
 <h2 align="center">⚡ Connect With Me ⚡</h2>
@@ -38,58 +38,58 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <p align="center">
-<img title = "C" src="./images/c.png" alt="c"  height="25"/>
+<img title = "C" src="./images/c.png" alt="c"  height="35"/>
 &ensp;
-<img title = "C++" src="./images/cpp.png" alt="cplusplus"  height="25"/>
+<img title = "C++" src="./images/cpp.png" alt="cplusplus"  height="35"/>
 &ensp;
-<img title = "Python" src="./images/python.png" alt="python"  height="25"/>
+<img title = "Python" src="./images/python.png" alt="python"  height="35"/>
 &ensp;
-<img title = "Rust" src="./images/rust.png" alt="rust"  height="25"/>
+<img title = "Rust" src="./images/rust.png" alt="rust"  height="35"/>
 &ensp;
-<img title = "Solidity" src="./images/sol.png" alt="solidity"  height="25"/>
+<img title = "Solidity" src="./images/sol.png" alt="solidity"  height="35"/>
 &ensp;
-<img title = "HTML5" src="./images/html5.png" alt="html5"  height="25"/>
+<img title = "HTML5" src="./images/html5.png" alt="html5"  height="35"/>
 &ensp;
-<img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/>
+<img title = "CSS3" src="./images/css.png" alt="css3"  height="35"/>
 &ensp;
 &ensp;
-<img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/>
+<img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="35"/>
 &ensp;
-<img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="25"/>
+<img title = "Javascript" src="./images/javascript.png" alt="javascript"  height="35"/>
 &ensp;
-<img title = "React" src="./images/react.png" alt="react"  height="25"/>
+<img title = "React" src="./images/react.png" alt="react"  height="35"/>
 &ensp;
-<img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/>
+<img title = "node.js" src="./images/node.png" alt="nodejs"  height="35"/>
 &ensp;
-<img title = "Express" src="./images/express-js.png" alt="express"  height="25"/>
+<img title = "Express" src="./images/express-js.png" alt="express"  height="35"/>
 &ensp;
-<img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
+<img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="35"/>
 &ensp;
-<img title = "Postgres SQL" src="./images/postgres.webp" alt="postgres"  height="25"/>
+<img title = "Postgres SQL" src="./images/postgres.webp" alt="postgres"  height="35"/>
 &ensp;
-<img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="25"/>
+<img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="35"/>
 &ensp;
-<img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
+<img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="35"/>
 &ensp;
 <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="15"/>
 &ensp;
-<img title = "Git" src="./images/git.png" alt="git"  height="25"/>
+<img title = "Git" src="./images/git.png" alt="git"  height="35"/>
 &ensp;
-<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
+<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="35"/>
 &ensp;
-<img title = "MS Excel" src="./images/excel.png" alt="excel"  height="25"/>
+<img title = "MS Excel" src="./images/excel.png" alt="excel"  height="35"/>
 &ensp;
 <img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="35"/>
 &ensp;
-<img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
+<img title = "AWS" src="./images/aws.png" alt="aws"  height="35"/>
 &ensp;
 <img title = "Azure" src="./images/Azure.png" alt="azure"  height="35"/>
 &ensp;
 <img title = "Docker" src="./images/docker.png" alt="docker"  height="35"/>
 &ensp;
-<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
+<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="35"/>
 &ensp;
-<img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="25"/>
+<img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="35"/>
 &ensp;
 <img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="35"/>
 &ensp;
