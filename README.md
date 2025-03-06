@@ -45,13 +45,17 @@
 <img title = "C" src="./images/c.png" alt="c"  height="25"/>
 &ensp;
 <img title = "C++" src="./images/cpp.png" alt="cplusplus"  height="25"/>
-&ensp;<img title = "JAVA" src="./images/java.png" alt="java"  height="25"/>
+&ensp;
+<img title = "Python" src="./images/python.png" alt="python"  height="25"/>
+&ensp;
+<img title = "Rust" src="./images/rust.png" alt="rust"  height="25"/>
+&ensp;
+<img title = "Solidity" src="./images/sol.png" alt="solidity"  height="25"/>
 &ensp;
 <img title = "HTML5" src="./images/html5.png" alt="html5"  height="25"/>
 &ensp;
 <img title = "CSS3" src="./images/css.png" alt="css3"  height="25"/>
 &ensp;
-<img title = "Bootstrap5" src="./images/bootstrap.png" alt="css3"  height="25"/>
 &ensp;
 <img title = "Tailwind" src="./images/tailwind.png" alt="tailwind"  height="25"/>
 &ensp;
@@ -61,9 +65,11 @@
 &ensp;
 <img title = "node.js" src="./images/node.png" alt="nodejs"  height="25"/>
 &ensp;
-<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
+<img title = "Express" src="./images/express-js.png" alt="express"  height="25"/>
 &ensp;
 <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="25"/>
+&ensp;
+<img title = "Postgres SQL" src="./images/postgres.webp" alt="postgres"  height="25"/>
 &ensp;
 <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
 &ensp;
@@ -71,13 +77,32 @@
 &ensp;
 <img title = "Git" src="./images/git.png" alt="git"  height="25"/>
 &ensp;
+<img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="25"/>
+&ensp;
+<img title = "MS Excel" src="./images/excel.png" alt="excel"  height="25"/>
+&ensp;
+<img title = "PowerBI" src="./images/bi.png" alt="powerbi"  height="25"/>
+&ensp;
+<img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
+&ensp;
+<img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/>
+&ensp;
+<img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
+&ensp;
+<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
+&ensp;
+<img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="25"/>
+&ensp;
+<img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="25"/>
+&ensp;
+<img title = "GenAI" src="./images/genai.png" alt="genai"  height="25"/>
+&ensp;
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
 &ensp;
-<img title = "Python" src="./images/python.png" alt="python"  height="25"/>
+<img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="25"/>
+<!-- <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
 &ensp;
-<img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
-&ensp;
-<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/>
+<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> -->
 &ensp;
 <!-- <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
