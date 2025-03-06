@@ -83,17 +83,17 @@
 &ensp;
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
-<img title = "Azure" src="./images/Azure.png" alt="azure"  height="25"/>
+<img title = "Azure" src="./images/Azure.png" alt="azure"  height="35"/>
 &ensp;
-<img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
+<img title = "Docker" src="./images/docker.png" alt="docker"  height="35"/>
 &ensp;
 <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
 &ensp;
 <img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="25"/>
 &ensp;
-<img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="25"/>
+<img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="35"/>
 &ensp;
-<img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="25"/>
+<img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="35"/>
 &ensp;
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
 &ensp;
