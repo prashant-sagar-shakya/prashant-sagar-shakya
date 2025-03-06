@@ -64,8 +64,8 @@
 <img title = "Express" src="./images/express-js.png" alt="express"  height="35"/>
 &ensp;
 <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="35"/>
-<!-- &ensp;
-<img title = "Postgres SQL" src="./images/postgres.webp" alt="postgres"  height="35"/> -->
+&ensp;
+<img title = "Postgres SQL" src="./images/postgresql.png" alt="postgres"  height="35"/>
 &ensp;
 <img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="35"/>
 &ensp;
@@ -98,6 +98,14 @@
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="30"/>
 &ensp;
 <img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="35"/>
+&ensp;
+<img title = "Jupyter Notebook" src="./images/jp.png" alt="jupyter"  height="35"/>
+&ensp;
+<img title = "PyCharm" src="./images/pycharm.webp" alt="pycharm"  height="35"/>
+&ensp;
+<img title = "Visual Studio Code" src="./images/vs.png" alt="Code"  height="30"/>
+&ensp;
+<img title = "Github" src="./images/github.png" alt="github"  height="35"/>
 &ensp;
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
