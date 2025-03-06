@@ -2,7 +2,7 @@
 
 <h1  align="center">
 <a  href="https://git.io/typing-svg">
-<img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prashant+Sagar+Shakya;Nice+to+meet+you!&center=true&size=35">
+<img  src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Prashant+Sagar+Shakya;Nice+to+meet+you!&center=true&size=25">
 </a>
 </h1>
 
@@ -36,7 +36,7 @@
 <a  href="https://leetcode.com/Prashant162003/"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>
 </h5>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
 <p align="center">
 <img title = "C" src="./images/c.png" alt="c"  height="35"/>
 &ensp;
