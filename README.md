@@ -33,8 +33,6 @@
 &emsp;
 <a  href="https://auth.geeksforgeeks.org/user/prashantsagarshakya"  title="GFG Profile"><img  width="22"  src="./images/geeks-for-geeks.png"> GFG</a>
 &emsp;
-<!-- <a  href="https://www.codechef.com/users/prashant162003"  title="CodeChef Profile"><img  width="22"  src="./images/codechef.png"> CodeChef </a>
-&emsp; -->
 <a  href="https://codeforces.com/profile/prashant.sagar.shakya"  title="CodeForces Profile"><img  width="22"  src="./images/codeforces.png"> CodeForces </a>
 &emsp;
 <a  href="https://leetcode.com/Prashant162003/"  title="LeetCode Profile"><img  width="22"  src="./images/leet-code.png"> Leetcode</a>
@@ -73,7 +71,7 @@
 &ensp;
 <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
 &ensp;
-<img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="25"/>
+<img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="15"/>
 &ensp;
 <img title = "Git" src="./images/git.png" alt="git"  height="25"/>
 &ensp;
@@ -81,7 +79,7 @@
 &ensp;
 <img title = "MS Excel" src="./images/excel.png" alt="excel"  height="25"/>
 &ensp;
-<img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="25"/>
+<img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="35"/>
 &ensp;
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
@@ -95,33 +93,12 @@
 &ensp;
 <img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="25"/>
 &ensp;
-<img title = "GenAI" src="./images/GenAi.png" alt="genai"  height="25"/>
+<img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="25"/>
 &ensp;
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
 &ensp;
 <img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="25"/>
-<!-- <img title = "OpenCV" src="./images/opencv.png" alt="opencv"  height="25"/>
 &ensp;
-<img title = "Firebase" src="./images/firebase.png" alt="firebase"  height="25"/> -->
-&ensp;
-<!-- <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
-&ensp;
-<img title = "Maven" src="./images/maven.png" alt="maven"  height="25"/>
-&ensp;
-<img title = "Jfrog Artifactory" src="./images/jfrog.png" alt="jfrog artifactory"  height="25"/>
-&ensp;
-<img title = "Jenkins" src="./images/jenkins.png" alt="jenkins"  height="25"/>
-&ensp;
-<img title = "SonarQube" src="./images/sonarQube.png" alt="sonarqube"  height="25"/>
-&ensp;
-<img title = "Ansible" src="./images/ansible.png" alt="ansible"  height="25"/>
-&ensp;
-<img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
-&ensp;
-<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="25"/>
-&ensp;
-<img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="25"/>
-&ensp; -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
