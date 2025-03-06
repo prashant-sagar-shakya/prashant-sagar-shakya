@@ -69,6 +69,8 @@
 &ensp;
 <img title = "Postgres SQL" src="./images/postgres.webp" alt="postgres"  height="25"/>
 &ensp;
+<img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="25"/>
+&ensp;
 <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="25"/>
 &ensp;
 <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="15"/>
@@ -93,11 +95,11 @@
 &ensp;
 <img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="35"/>
 &ensp;
-<img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="35"/>
+<img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="45"/>
 &ensp;
-<img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
+<img title = "Linux" src="./images/linux.png" alt="linux"  height="30"/>
 &ensp;
-<img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="25"/>
+<img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="35"/>
 &ensp;
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
