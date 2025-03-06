@@ -81,11 +81,11 @@
 &ensp;
 <img title = "MS Excel" src="./images/excel.png" alt="excel"  height="25"/>
 &ensp;
-<img title = "PowerBI" src="./images/bi.png" alt="powerbi"  height="25"/>
+<img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="25"/>
 &ensp;
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="25"/>
 &ensp;
-<img title = "Azure" src="./images/azure.png" alt="azure"  height="25"/>
+<img title = "Azure" src="./images/Azure.png" alt="azure"  height="25"/>
 &ensp;
 <img title = "Docker" src="./images/docker.png" alt="docker"  height="25"/>
 &ensp;
@@ -95,7 +95,7 @@
 &ensp;
 <img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="25"/>
 &ensp;
-<img title = "GenAI" src="./images/genai.png" alt="genai"  height="25"/>
+<img title = "GenAI" src="./images/GenAi.png" alt="genai"  height="25"/>
 &ensp;
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="25"/>
 &ensp;
