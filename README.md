@@ -43,11 +43,11 @@
 <img title = "C++" src="./images/cpp.png" alt="cplusplus"  height="35"/>
 &ensp;
 <img title = "Python" src="./images/python.png" alt="python"  height="35"/>
-&ensp;
+<!-- &ensp;
 <img title = "Rust" src="./images/rust.png" alt="rust"  height="35"/>
-&ensp;
-<img title = "Solidity" src="./images/sol.png" alt="solidity"  height="35"/>
-&ensp;
+&ensp; -->
+<!-- <img title = "Solidity" src="./images/sol.png" alt="solidity"  height="35"/>
+&ensp; -->
 <img title = "HTML5" src="./images/html5.png" alt="html5"  height="35"/>
 &ensp;
 <img title = "CSS3" src="./images/css.png" alt="css3"  height="35"/>
@@ -59,16 +59,16 @@
 &ensp;
 <img title = "React" src="./images/react.png" alt="react"  height="35"/>
 &ensp;
-<img title = "node.js" src="./images/node.png" alt="nodejs"  height="35"/>
-&ensp;
-<img title = "Express" src="./images/express-js.png" alt="express"  height="35"/>
-&ensp;
+<!-- <img title = "node.js" src="./images/node.png" alt="nodejs"  height="35"/>
+&ensp; -->
+<!-- <img title = "Express" src="./images/express-js.png" alt="express"  height="35"/>
+&ensp; -->
 <img title = "MongoDB" src="./images/mongodb.png" alt="mongodb"  height="35"/>
 &ensp;
-<img title = "Postgres SQL" src="./images/Postgresql.png" alt="postgres"  height="35"/>
-&ensp;
-<img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="35"/>
-&ensp;
+<!-- <img title = "Postgres SQL" src="./images/Postgresql.png" alt="postgres"  height="35"/>
+&ensp; -->
+<!-- <img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="35"/>
+&ensp; -->
 <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="35"/>
 &ensp;
 <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="15"/>
@@ -77,28 +77,28 @@
 &ensp;
 <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="35"/>
 &ensp;
-<img title = "MS Excel" src="./images/excel.png" alt="excel"  height="35"/>
-&ensp;
-<img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="35"/>
-&ensp;
-<img title = "AWS" src="./images/aws.png" alt="aws"  height="35"/>
-&ensp;
-<img title = "Azure" src="./images/Azure.png" alt="azure"  height="35"/>
-&ensp;
-<img title = "Docker" src="./images/docker.png" alt="docker"  height="35"/>
-&ensp;
-<img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="35"/>
-&ensp;
-<img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="35"/>
-&ensp;
-<img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="35"/>
-&ensp;
-<img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="45"/>
-&ensp;
-<img title = "Linux" src="./images/linux.png" alt="linux"  height="30"/>
-&ensp;
-<img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="35"/>
-&ensp;
+<!-- <img title = "MS Excel" src="./images/excel.png" alt="excel"  height="35"/>
+&ensp; -->
+<!-- <img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="35"/>
+&ensp; -->
+<!-- <img title = "AWS" src="./images/aws.png" alt="aws"  height="35"/>
+&ensp; -->
+<!-- <img title = "Azure" src="./images/Azure.png" alt="azure"  height="35"/>
+&ensp; -->
+<!-- <img title = "Docker" src="./images/docker.png" alt="docker"  height="35"/>
+&ensp; -->
+<!-- <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="35"/>
+&ensp; -->
+<!-- <img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="35"/>
+&ensp; -->
+<!-- <img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="35"/>
+&ensp; -->
+<!-- <img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="45"/>
+&ensp; -->
+<!-- <img title = "Linux" src="./images/linux.png" alt="linux"  height="30"/>
+&ensp; -->
+<!-- <img title = "CyberSecurity" src="./images/cs.webp" alt="cybersecurity"  height="35"/>
+&ensp; -->
 <img title = "Jupyter Notebook" src="./images/jp.png" alt="jupyter"  height="35"/>
 &ensp;
 <img title = "PyCharm" src="./images/pycharm.webp" alt="pycharm"  height="35"/>
