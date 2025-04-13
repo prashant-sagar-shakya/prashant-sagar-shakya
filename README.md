@@ -104,8 +104,8 @@
 <img title = "PyCharm" src="./images/pycharm.webp" alt="pycharm"  height="35"/>
 &ensp;
 <img title = "Visual Studio Code" src="./images/vs.png" alt="Code"  height="30"/>
-&ensp;
-<img title = "Github" src="./images/github.png" alt="github"  height="35"/>
+<!-- &ensp;
+<img title = "Github" src="./images/github.png" alt="github"  height="35"/> -->
 &ensp;
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
