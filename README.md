@@ -14,11 +14,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 💬 Ask me about **C, C++, Python, Solidity, Web2 & DSA**
+- 💬 Ask me about **C, C++, Python, Web2 & DSA**
 
 - 📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
-
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1K0nFhcVvuwaCzjl4Y84jq1_fUo9pEZVU/view?usp=sharing)
 
 - ⚡ Fun Fact **Talk is cheap. Show me the code**
 <br>
