@@ -10,7 +10,7 @@
 
 <img align = "right" alt="Coding" width = "350" src="images/donut.gif">
 
-- 🌱 I’m currently learning **Blockchain & Web3**
+- 🌱 I’m currently learning **ML-Ops**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me [prashantshakya43602003@gmail.com](mailto:prashantshakya43602003@gmail.com)
 
-- ⚡ Fun Fact **Talk is cheap. Show me the code**
+- ⚡ Fun Fact **The first computer “bug” was an actual moth stuck in a Harvard computer in 1947! 🐛💻**
 <br>
 <br>
 <h2 align="center">⚡ Connect With Me ⚡</h2>
