@@ -122,5 +122,5 @@
 <br clear="both">
 <img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/profile-green-dual.svg" />
+  <img src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/profile-3d/profile-green-dual.svg" />
 </p>
