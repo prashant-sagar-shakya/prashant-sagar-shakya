@@ -6,7 +6,7 @@
 </a>
 </h1>
 
-<h3 align="center">A passionate learner and Software Engineer from India</h3>
+<h3 align="center">A Passionate Learner and Software Engineer from India</h3>
 
 <img align = "right" alt="Coding" width = "350" src="images/donut.gif">
 
@@ -61,8 +61,6 @@
 &ensp;
 <img title = "Postgres SQL" src="./images/Postgresql.png" alt="postgres"  height="35"/>
 &ensp;
-<!-- <img title = "PrismaDB" src="./images/prisma.png" alt="prismadb"  height="35"/>
-&ensp; -->
 <img title = "Typescript" src="./images/typescript.png" alt="typescript"  height="35"/>
 &ensp;
 <img title = "Next.Js" src="./images/next.png" alt="nextjs"  height="15"/>
@@ -71,10 +69,6 @@
 &ensp;
 <img title = "MySQL" src="./images/mysql.png" alt="mysql"  height="35"/>
 &ensp;
-<!-- <img title = "MS Excel" src="./images/excel.png" alt="excel"  height="35"/>
-&ensp; -->
-<!-- <img title = "PowerBI" src="./images/Bi.png" alt="powerbi"  height="35"/>
-&ensp; -->
 <img title = "AWS" src="./images/aws.png" alt="aws"  height="35"/>
 &ensp;
 <img title = "Github Actions" src="./images/ga.png" alt="Github Actions"  height="35"/>
@@ -87,14 +81,8 @@
 &ensp;
 <img title = "Docker" src="./images/docker.png" alt="docker"  height="35"/>
 &ensp;
-<!-- <img title = "Kubernetes" src="./images/kubernetes.png" alt="kubernetes"  height="35"/>
-&ensp; -->
-<!-- <img title = "Prometheus" src="./images/prometheus.png" alt="prometheus"  height="35"/>
-&ensp; -->
 <img title = "Grafana" src="./images/grafana.png" alt="grafana"  height="35"/>
 &ensp;
-<!-- <img title = "GenAI" src="./images/GenAI.png" alt="genai"  height="45"/>
-&ensp; -->
 <img title = "Linux" src="./images/linux.png" alt="linux"  height="30"/>
 &ensp;
 <img title = "Jupyter Notebook" src="./images/jp.png" alt="jupyter"  height="35"/>
@@ -106,21 +94,8 @@
 <img title = "Visual Studio Code" src="./images/vs.png" alt="Code"  height="30"/>
 &ensp;
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-<div align=center>
-<img align="left" width=390 src="https://streak-stats.demolab.com/?user=prashant-sagar-shakya&theme=react&border=61dafb&hide_border=true" alt="prashant-sagar-shakya" />
-<img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=prashant-sagar-shakya&show_icons=true&locale=en&theme=react&border_color=61dafb&hide_border=true" alt="prashant-sagar-shakya" />
-</div>
-<br><br><br><br><br><br><br><br><br>
-<div align=center>
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-sagar-shakya&&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"/>
-</div>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prashant-sagar-shakya&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
 <br clear="both">
-<img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
 <p align="center">
   <img src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/profile-3d/profile-green-dual.svg" />
 </p>
+<img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
