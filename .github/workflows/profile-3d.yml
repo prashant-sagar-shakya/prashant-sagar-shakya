@@ -33,7 +33,7 @@ jobs:
       - name: Checkout output branch
         uses: actions/checkout@v4
         with:
-          ref: output
+          ref: profile-3d
           path: output-branch
           fetch-depth: 0
 
