@@ -1,0 +1,53 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  push:        # Run on every push
+    branches:
+      - master
+  schedule:
+    - cron: "0 18 * * *"   # optional daily trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-3d-contrib
+
+    steps:
+      # Checkout DEFAULT branch (master)
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Run generator
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          USERNAME: prashant-sagar-shakya
+          SETTING_JSON: .github/green-dual.json
+
+      # Checkout OUTPUT branch safely
+      - name: Checkout output branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+          path: output-branch
+          fetch-depth: 0
+
+      # Copy generated files to output branch
+      - name: Copy generated files
+        run: |
+          cp -r ./profile-3d-contrib/* ./output-branch/
+
+      # Commit & Push safely (NO FORCE PUSH)
+      - name: Commit & Push
+        run: |
+          cd output-branch
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update 3D contrib graph" || echo "No changes"
+          git push
