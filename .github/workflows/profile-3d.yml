@@ -1,11 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  push:        # Run on every push
+  push:
     branches:
       - master
-  schedule:
-    - cron: "0 18 * * *"   # optional daily trigger
   workflow_dispatch:
 
 permissions:
@@ -14,40 +12,65 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-3d-contrib
 
     steps:
-      # Checkout DEFAULT branch (master)
-      - uses: actions/checkout@v4
+      # 1️⃣ Master branch checkout
+      - name: Checkout master branch
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # Run generator
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # 2️⃣ Run 3D Generator
+      - name: Run 3D generator
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
           USERNAME: prashant-sagar-shakya
           SETTING_JSON: .github/green-dual.json
 
-      # Checkout OUTPUT branch safely
-      - name: Checkout output branch
-        uses: actions/checkout@v4
-        with:
-          ref: profile-3d
-          path: output-branch
-          fetch-depth: 0
-
-      # Copy generated files to output branch
-      - name: Copy generated files
+      # 3️⃣ Auto-detect generator output folder
+      - name: Detect output folder
+        id: detect
         run: |
-          cp -r ./profile-3d-contrib/* ./output-branch/
+          echo "Detecting output folder..."
+          folder=$(find . -maxdepth 1 -type d -name "profile-*")
+          echo "Detected: $folder"
+          echo "folder=$folder" >> $GITHUB_OUTPUT
 
-      # Commit & Push safely (NO FORCE PUSH)
+      # 4️⃣ Save detected output to /tmp/output
+      - name: Save output to temp
+        run: |
+          mkdir -p /tmp/output
+          cp -r "${{ steps.detect.outputs.folder }}"/* /tmp/output/
+
+      # 5️⃣ Clean master (to avoid conflicts)
+      - name: Clean workspace
+        run: |
+          git reset --hard
+          git clean -fd
+
+      # 6️⃣ Checkout profile-3d branch
+      - name: Checkout profile-3d branch
+        run: |
+          git fetch origin profile-3d
+          git checkout -B profile-3d origin/profile-3d
+
+      # 7️⃣ Copy output into profile-3d branch
+      - name: Copy output
+        run: |
+          mkdir -p profile-3d-contrib
+          cp -r /tmp/output/* profile-3d-contrib/
+
+      # 8️⃣ Commit & push
       - name: Commit & Push
         run: |
-          cd output-branch
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add .
-          git commit -m "Update 3D contrib graph" || echo "No changes"
-          git push
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update 3D contrib graph"
+            git push origin profile-3d
+          else
+            echo "No changes to commit"
+          fi

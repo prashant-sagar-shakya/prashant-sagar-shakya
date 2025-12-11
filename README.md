@@ -42,6 +42,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br clear="both">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/profile-3d/profile-green-dual.svg" />
+  <img src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/profile-3d/profile-3d-contrib/profile-green-dual.svg" />
 </p>
 <img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
