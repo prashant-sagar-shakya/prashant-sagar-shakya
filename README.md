@@ -39,6 +39,5 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,javascript,react,nodejs,express,mongodb,postgresql,typescript" alt="Tech Stack"/>
 <img src="https://skillicons.dev/icons?i=nextjs,git,mysql,aws,githubactions,azure,docker,grafana,linux,pycharm,github,vscode" alt="Tech Stack" height="50"/>
 </p>
-<h2 align="center">⚡ Stats ⚡</h2>
 <br clear="both">
 <img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
