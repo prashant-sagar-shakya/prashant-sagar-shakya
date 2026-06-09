@@ -10,7 +10,7 @@
 
 <img align = "right" alt="Coding" width = "350" src="images/donut.gif">
 
-- 🌱 I’m currently learning **ML-Ops**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -37,7 +37,7 @@
 <h2 align="center">🔥 Languages, Frameworks, Tools & Abilities 🔥</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,tailwindcss,javascript,react,nodejs,express,mongodb,postgresql,typescript" alt="Tech Stack"/>
-<img src="https://skillicons.dev/icons?i=nextjs,git,mysql,aws,githubactions,azure,docker,grafana,linux,pycharm,github,vscode" alt="Tech Stack" height="50"/>
+<img src="https://skillicons.dev/icons?i=nextjs,git,mysql,aws,docker,linux,pycharm,github,vscode" alt="Tech Stack" height="50"/>
 </p>
 <br clear="both">
 <img align="center" src="https://raw.githubusercontent.com/prashant-sagar-shakya/prashant-sagar-shakya/output/snake.svg" alt="Snake animation" />
