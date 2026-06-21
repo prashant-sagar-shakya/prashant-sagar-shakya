@@ -10,7 +10,7 @@
 
 <img align = "right" alt="Coding" width = "350" src="images/donut.gif">
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
